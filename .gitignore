@@ -7,3 +7,12 @@ log/*.log.[0-9]
 assets/photoshop
 assets/videos
 !assets/videos/tour_*.mp4
+
+#Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
